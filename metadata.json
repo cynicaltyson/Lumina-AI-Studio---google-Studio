@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "An AI-powered workflow orchestration assistant inspired by n8n. Design, visualize, and automate tasks with the power of Gemini.",
+  "requestFramePermissions": []
+}
